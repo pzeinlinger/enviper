@@ -1,4 +1,4 @@
-module github.com/iamolegga/enviper
+module github.com/pzeinlinger/enviper
 
 go 1.14
 
